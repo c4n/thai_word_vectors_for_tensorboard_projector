@@ -3,8 +3,8 @@
     {
       "tensorName": "Thai Word Vectors (wikipedia)",
       "tensorShape": [
-        10000,
-        32
+        1000,
+        50
       ],
       "tensorPath": "https://raw.githubusercontent.com/c4n/thai_word_vectors_for_tensorboard_projector/master/weights.tsv",
       "metadataPath": "https://raw.githubusercontent.com/c4n/thai_word_vectors_for_tensorboard_projector/master/metadata.tsv"
